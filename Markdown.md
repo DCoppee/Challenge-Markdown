@@ -4,7 +4,7 @@
 
 ![Dominique Coppée](https://media-exp1.licdn.com/dms/image/D4E03AQEHdBBtW3aClw/profile-displayphoto-shrink_800_800/0/1667827361856?e=1674086400&v=beta&t=Gn-M_k_fN9OWshCuwgLJHmh6rtudzVbqLkfGqcAclj4)
 
-## Philologue romaniste, je passe en mode *file* et *log* @BeCode !
+## Philologue romaniste, je passe en mode *file* et *log* !
 
 Anniversaire | Sexe | Couleur préférée | Aliment favori | Ananas sur pizza
 -------------|------|------------------|----------------|-----------------
@@ -13,27 +13,24 @@ Anniversaire | Sexe | Couleur préférée | Aliment favori | Ananas sur pizza
 ## Loisirs
 
 * Lecture
-* Séries
-	* Comédies
-	* Séries historiques
-	* Drames
+* Écriture
 * Loisirs créatifs
 	* Dessin
 	* Collage
-	* Bricolage
+	* Bricolages en tous genres
 	* Couture
 	* Tricot
-	* Jardinage
-* Visites culturelles
-	* Musées
-	* Expo
-	* Villes et monuments
-* Classic rock
+	* & many more
+* Musique en tant qu'amatrice (principalement classic rock)
+* Vie culturelle
 
-## Vous pouvez toujours compter sur moi pour écouter vos histoires, compatir et chercher des solutions constructives à vos problèmes (personnels, pas techniques ;-)
+## Vous pouvez toujours compter sur moi pour...
+vous écouter, compatir et chercher des solutions constructives à vos soucis (non technologiques ;)
 
-## Ce n'est pas particulièrement fun, mais j'ai rédigé une thèse de 300 pages sur Charles-Augustin Sainte Beuve, un critique littéraire du XIXème siècle. Mais cette thèse n'a jamais été publiée, suite à une mésentente avec mon promoteur. Évidemment, sur le moment, cela n'a pas été agréable à vivre ; mais rétrospectivement, 6 ans plus tard (et un burn-out et deux enfants après), c'est ce qui m'a menée  BeCode, le plus gros twist de ma vie ! Comme quoi, les Romanes, ça mène à tout ;-)
+## Fun fact
+J'ai pratiqué la céramique pendant quatre ans aux beaux-arts, durant lesquels j'ai réalisé des tasses, des pots, des théières... J'ai aussi préparé des émaux, géré des fours à 1250°, créé des moulages, des sculptures... Rien de magnifique, mais un petit savoir-faire manuel bien spécifique !
 
-### Comment un échec cuisant devient une reconversion pro totalement inattendue !
+### TL;DR
+Du pot au code, il n'y a qu'un pas.
 
-
+[<< précédent](https://github.com/Corentinmiserque) || DOMINIQUE || [suivant >>](https://github.com/Ed0598)
