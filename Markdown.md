@@ -33,4 +33,4 @@ J'ai pratiqué la céramique pendant quatre ans aux beaux-arts, durant lesquels 
 ### TL;DR
 Du pot au code, il n'y a qu'un pas.
 
-[<< précédent](https://github.com/Corentinmiserque) || DOMINIQUE || [suivant >>](https://github.com/Ed0598)
+[<< précédent](https://github.com/Corentinmiserque) || DOMINIQUE || [suivant >>](https://github.com/Ed0598):
