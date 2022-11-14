@@ -24,7 +24,8 @@ Anniversaire | Sexe | Couleur préférée | Aliment favori | Ananas sur pizza
 * Musique en tant qu'amatrice (principalement classic rock)
 * Vie culturelle
 
-## Vous pouvez toujours compter sur moi pour vous écouter, compatir et chercher des solutions constructives à vos soucis (non technologiques ;)
+## Vous pouvez toujours compter sur moi pour... 
+vous écouter, compatir et chercher des solutions constructives à vos soucis (non technologiques ;)
 
 ## Fun fact
 J'ai pratiqué la céramique pendant quatre ans aux beaux-arts, durant lesquels j'ai réalisé des tasses, des pots, des théières... J'ai aussi préparé des émaux, géré des fours à 1250°, créé des moulages, des sculptures... Rien de magnifique, mais un petit savoir-faire manuel bien spécifique !
